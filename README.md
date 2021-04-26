@@ -1,13 +1,15 @@
 ### EJ Turing Tecnologia
 Empresa Jr. do Curso de Sistemas de Informação - UFERSA Angicos.
 
-# Membros
+# Direção
 
-Nome Completo  | Github
+Nome Completo  | Cargo
 --------- | ------
-Cesário P Neto | cesarionto
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+Cesário P Neto | Diretor de Projetos
+Alice Marrocos | Diretora Presidente
+Kelria Hendle | Vice-Diretora
+Alan Guilherme | Diretor de Finanças
+
+
 
 
