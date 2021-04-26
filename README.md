@@ -1,7 +1,7 @@
-### EJ Turing Tecnologia
+# EJ Turing Tecnologia
 Empresa Jr. do Curso de Sistemas de Informação - UFERSA Angicos.
 
-# Direção
+#### Direção
 
 Nome Completo  | Cargo
 --------- | ------
