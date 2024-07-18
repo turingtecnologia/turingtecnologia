@@ -5,10 +5,10 @@ Empresa Jr. do Curso de Sistemas de Informação - UFERSA Angicos.
 
 Nome Completo  | Cargo
 --------- | ------
-Alice Marrocos | Diretora Presidente
+Izaque | Diretora Presidente
 Kelria Hendle | Vice-Diretora
-Alan Guilherme | Diretor de Finanças
-Cesário P Neto | Diretor de Projetos
+Alice Marrocos | Diretor de Finanças
+João Victor da Cunha | Diretor de Projetos
 
 
 
